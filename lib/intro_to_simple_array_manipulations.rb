@@ -26,11 +26,10 @@ def using_shift(array)
   array.shift
 end
 
-
+ice_cream_brands = ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "Braum's", "Breyer's"]
 
 def using_shift(array)
-
-  array.shift
+  array.shift(2)
 end
 
 
